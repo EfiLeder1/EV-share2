@@ -1,0 +1,238 @@
+[24-Jun-2024 18:35:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/login.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/login.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/login.php on line 5
+[24-Jun-2024 18:36:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:36:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:37:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:37:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:6
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 6
+[24-Jun-2024 18:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:39:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:40:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:42:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:42:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:42:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:46:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewevolut_ev-share '@'localhost' (using password: YES) in /home4/ewevolut/ev-share.ewevolutions.com/register.php:5
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/register.php(5): mysqli->__construct()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/register.php on line 5
+[24-Jun-2024 18:55:33 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 18:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php:21
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php(21): mysqli_query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 21
+[24-Jun-2024 18:57:19 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 18:57:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php:21
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php(21): mysqli_query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 21
+[24-Jun-2024 18:59:06 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 18:59:54 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 18:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php:21
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php(21): mysqli_query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 21
+[24-Jun-2024 19:01:41 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 19:01:41 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 7
+[24-Jun-2024 19:02:19 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 19:02:19 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 8
+[24-Jun-2024 19:03:08 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 19:03:08 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 7
+[24-Jun-2024 19:03:37 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 19:03:37 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 7
+[24-Jun-2024 19:05:06 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 5
+[24-Jun-2024 19:05:06 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 7
+[24-Jun-2024 19:06:29 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 4
+[24-Jun-2024 19:06:55 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 4
+[24-Jun-2024 19:11:27 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 4
+[25-Jun-2024 12:14:52 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 4
+[25-Jun-2024 14:09:56 UTC] PHP Warning:  Undefined variable $database in /home4/ewevolut/ev-share.ewevolutions.com/delete_station.php on line 4
+[25-Jun-2024 14:09:56 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[25-Jun-2024 14:09:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[25-Jun-2024 14:09:58 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[25-Jun-2024 14:09:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[25-Jun-2024 14:10:00 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[25-Jun-2024 14:10:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[25-Jun-2024 14:10:02 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[25-Jun-2024 14:10:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[25-Jun-2024 14:10:07 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[25-Jun-2024 14:10:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[25-Jun-2024 14:10:08 UTC] PHP Warning:  Undefined array key "user_type" in /home4/ewevolut/ev-share.ewevolutions.com/panel-page.php on line 24
+[25-Jun-2024 14:10:08 UTC] PHP Warning:  Undefined array key "user_type" in /home4/ewevolut/ev-share.ewevolutions.com/panel-page.php on line 28
+[26-Jun-2024 11:50:36 UTC] PHP Warning:  Undefined array key "user_type" in /home4/ewevolut/ev-share.ewevolutions.com/panel-page.php on line 24
+[26-Jun-2024 11:50:36 UTC] PHP Warning:  Undefined array key "user_type" in /home4/ewevolut/ev-share.ewevolutions.com/panel-page.php on line 28
+[26-Jun-2024 18:47:08 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/add_station.php on line 32
+[26-Jun-2024 18:47:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'user_id' cannot be null in /home4/ewevolut/ev-share.ewevolutions.com/add_station.php:52
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/add_station.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/add_station.php on line 52
+[26-Jun-2024 18:48:36 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[26-Jun-2024 18:48:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[26-Jun-2024 21:16:38 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[26-Jun-2024 21:16:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "station_name" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 38
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "station_model" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 39
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "station_year" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 40
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "address" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 41
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "charging_type" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 42
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "city" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 43
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "charging_capacity" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 44
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "how_to_find" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 45
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "asking_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 46
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "algo_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 47
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "latitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 48
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "longitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 49
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "image1" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Undefined array key "image2" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:41:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "station_name" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 38
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "station_model" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 39
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "station_year" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 40
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "address" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 41
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "charging_type" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 42
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "city" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 43
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "charging_capacity" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 44
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "how_to_find" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 45
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "asking_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 46
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "algo_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 47
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "latitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 48
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "longitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 49
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "image1" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Undefined array key "image2" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "station_name" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 38
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "station_model" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 39
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "station_year" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 40
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "address" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 41
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "charging_type" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 42
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "city" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 43
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "charging_capacity" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 44
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "how_to_find" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 45
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "asking_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 46
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "algo_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 47
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "latitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 48
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "longitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 49
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "image1" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Undefined array key "image2" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:43:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "station_name" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 38
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "station_model" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 39
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "station_year" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 40
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "address" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 41
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "charging_type" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 42
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "city" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 43
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "charging_capacity" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 44
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "how_to_find" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 45
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "asking_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 46
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "algo_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 47
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "latitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 48
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "longitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 49
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "image1" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Undefined array key "image2" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:47:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "station_name" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 38
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "station_model" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 39
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "station_year" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 40
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "address" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 41
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "charging_type" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 42
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "city" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 43
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "charging_capacity" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 44
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "how_to_find" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 45
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "asking_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 46
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "algo_price" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 47
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "latitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 48
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "longitude" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 49
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "image1" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 57
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Undefined array key "image2" in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[27-Jun-2024 21:48:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/ewevolut/ev-share.ewevolutions.com/edit_station.php on line 64
+[28-Jun-2024 04:25:12 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[28-Jun-2024 04:25:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14
+[28-Jun-2024 04:28:22 UTC] PHP Warning:  Undefined array key "user_id" in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 13
+[28-Jun-2024 04:28:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php:14
+Stack trace:
+#0 /home4/ewevolut/ev-share.ewevolutions.com/station-management.php(14): mysqli->query()
+#1 {main}
+  thrown in /home4/ewevolut/ev-share.ewevolutions.com/station-management.php on line 14

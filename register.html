@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV SHARE </title>
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <!-- ====================== Header===================== -->
+    <div class="log-reg-form register-sec">
+        <video autoplay loop muted>
+            <source src="./assets/images/leaf.mp4" type="video/mp4">
+        </video>
+        <div class="container h-100 z-index-3 position-relative">
+            <div class="registor w-md-700px w-100">
+                <h1>Create New <br> account</h1>
+                <p>Already Registered? <a href="./login.html">Log in here.</a></p>
+              <div class="row w-100">
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        Full Name
+                    </label>
+                    <input type="text" class="form-control form-control-lg form-control-solid" name="name" placeholder="" value="" required>
+              </div>
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        Phone
+                    </label>
+                    <input type="text" class="form-control form-control-lg form-control-solid" name="phone" placeholder="" value="" required>
+              </div>
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        EMAIL
+                    </label>
+                    <input type="email" class="form-control form-control-lg form-control-solid" name="email" placeholder="" value="" required>
+              </div>
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        Address
+                    </label>
+                    <input type="text" class="form-control form-control-lg form-control-solid text-end" name="address" placeholder="" value="" required>
+              </div>
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        PASSWORD
+                    </label>
+                    <input type="password" class="form-control form-control-lg form-control-solid" name="password" placeholder="" value="" required>
+              </div>
+                <div class="col-md-6 mb-5">
+                    <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                        confirm  PASSWORD
+                    </label>
+                    <input type="password" class="form-control form-control-lg form-control-solid" name="confirm-password" placeholder="" value="" required>
+              </div>
+
+              <!-- <div class="col-md-6 mb-5">
+                <label class="d-flex align-items-center fs-5 fw-semibold mb-2 text-white">
+                    User Type
+                </label>
+                <select class="form-control form-control-lg form-control-solid" name="user_type">
+                    <option value="">Please Select</option>
+                    <option value="Station_Owner">Station_Owner</option>
+                    <option value="Car_Owner">Car_Owner</option>
+                </select>
+              </div> -->
+
+              <div class="d-flex justify-content-center">
+                <button class="sign-up-btn" onclick="registerUser(event)">sign up</button>
+              </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        function registerUser(event) {
+            event.preventDefault();
+
+            let name = $('input[name="name"]').val();
+            let phone = $('input[name="phone"]').val();
+            let email = $('input[name="email"]').val();
+            let address = $('input[name="address"]').val();
+            let password = $('input[name="password"]').val();
+            let confirmPassword = $('input[name="confirm-password"]').val();
+            //let userType = $('select[name="user_type"]').val().trim();
+            
+            // Check for empty fields
+            //if (!name || !phone || !email || !address || !password || !confirmPassword || !userType) {
+            if (!name || !phone || !email || !address || !password || !confirmPassword) {
+                alert("All fields are required!");
+                return;
+            }
+
+            if (password !== confirmPassword) {
+                alert("Passwords do not match!");
+                return;
+            }
+
+            $.ajax({
+                url: 'register.php',
+                type: 'POST',
+                data: {
+                    name: name,
+                    phone: phone,
+                    email: email,
+                    address: address,
+                    password: password,
+                    //user_type: userType
+                },
+                success: function(response) {
+                    alert(response);
+                    if (response.includes("Registration successful")) {
+                        window.location.href = 'index.html';
+                    }
+                },
+                error: function() {
+                    alert("An error occurred. Please try again.");
+                }
+            });
+        }
+    </script>
+</body>
+</html>
